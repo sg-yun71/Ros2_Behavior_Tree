@@ -1,0 +1,23 @@
+[0.376s] Invoking command in '/home/etri/bt_tutorials/src/py_trees_ros_viewer': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_trees_ros_viewer build --build-base /home/etri/bt_tutorials/build/py_trees_ros_viewer/build install --record /home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log --single-version-externally-managed install_data
+[0.388s] /home/etri/bt_tutorials/src/py_trees_ros_viewer/setup.py:5: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[0.388s]   from distutils import log
+[0.504s] running egg_info
+[0.504s] writing ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/PKG-INFO
+[0.504s] writing dependency_links to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/dependency_links.txt
+[0.504s] writing entry points to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/entry_points.txt
+[0.504s] writing top-level names to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/top_level.txt
+[0.505s] reading manifest file '../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.505s] adding license file 'LICENSE'
+[0.506s] writing manifest file '../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.506s] running build
+[0.506s] running build_py
+[0.506s] running install
+[0.506s] running install_lib
+[0.507s] running install_data
+[0.507s] running install_egg_info
+[0.507s] removing '/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer-0.2.3-py3.10.egg-info' (and everything under it)
+[0.507s] Copying ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info to /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer-0.2.3-py3.10.egg-info
+[0.508s] running install_scripts
+[0.509s] Installing py-trees-tree-viewer script to /home/etri/bt_tutorials/install/py_trees_ros_viewer/bin
+[0.509s] writing list of installed files to '/home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log'
+[0.523s] Invoked command in '/home/etri/bt_tutorials/src/py_trees_ros_viewer' returned '0': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_trees_ros_viewer build --build-base /home/etri/bt_tutorials/build/py_trees_ros_viewer/build install --record /home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log --single-version-externally-managed install_data

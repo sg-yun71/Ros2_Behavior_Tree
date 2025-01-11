@@ -1,0 +1,84 @@
+[0.372s] Invoking command in '/home/etri/bt_tutorials/build/py_trees_ros_viewer': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/etri/bt_tutorials/build/py_trees_ros_viewer/build
+[0.389s] /home/etri/bt_tutorials/build/py_trees_ros_viewer/setup.py:5: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[0.389s]   from distutils import log
+[0.542s] running develop
+[0.659s] Removing /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py-trees-ros-viewer.egg-link (link to .)
+[0.678s] Invoked command in '/home/etri/bt_tutorials/build/py_trees_ros_viewer' returned '0': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/etri/bt_tutorials/build/py_trees_ros_viewer/build
+[0.680s] Invoking command in '/home/etri/bt_tutorials/src/py_trees_ros_viewer': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_trees_ros_viewer build --build-base /home/etri/bt_tutorials/build/py_trees_ros_viewer/build install --record /home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log --single-version-externally-managed install_data --force
+[0.695s] /home/etri/bt_tutorials/src/py_trees_ros_viewer/setup.py:5: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[0.695s]   from distutils import log
+[0.852s] running egg_info
+[0.852s] writing ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/PKG-INFO
+[0.852s] writing dependency_links to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/dependency_links.txt
+[0.853s] writing entry points to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/entry_points.txt
+[0.853s] writing top-level names to ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/top_level.txt
+[0.854s] reading manifest file '../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.854s] adding license file 'LICENSE'
+[0.855s] writing manifest file '../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.855s] running build
+[0.855s] running build_py
+[0.855s] creating /home/etri/bt_tutorials/build/py_trees_ros_viewer/build
+[0.855s] creating /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib
+[0.855s] creating /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.855s] copying py_trees_ros_viewer/viewer.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.855s] copying py_trees_ros_viewer/exceptions.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/__init__.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/web_view_ui.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/web_view.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/web_app_rc.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/conversions.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/console.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/backend.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/images_rc.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/main_window_ui.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/utilities.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/main_window.py -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.856s] copying py_trees_ros_viewer/main_window.ui -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.857s] copying py_trees_ros_viewer/web_view.ui -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer
+[0.857s] creating /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/html
+[0.857s] copying py_trees_ros_viewer/html/index.html -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/html
+[0.857s] creating /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/images
+[0.857s] copying py_trees_ros_viewer/images/tuxrobot.png -> /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/images
+[0.857s] running install
+[0.857s] running install_lib
+[0.857s] creating /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.857s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/viewer.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/exceptions.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] creating /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/html
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/html/index.html -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/html
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/__init__.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] creating /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/images
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/images/tuxrobot.png -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/images
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/web_view_ui.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/web_view.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/web_app_rc.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/conversions.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/console.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/main_window.ui -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/backend.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.858s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/images_rc.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.859s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/main_window_ui.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.859s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/web_view.ui -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.859s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/utilities.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.859s] copying /home/etri/bt_tutorials/build/py_trees_ros_viewer/build/lib/py_trees_ros_viewer/main_window.py -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/viewer.py to viewer.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/exceptions.py to exceptions.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/__init__.py to __init__.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/web_view_ui.py to web_view_ui.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/web_view.py to web_view.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/web_app_rc.py to web_app_rc.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/conversions.py to conversions.cpython-310.pyc
+[0.859s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/console.py to console.cpython-310.pyc
+[0.860s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/backend.py to backend.cpython-310.pyc
+[0.862s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/images_rc.py to images_rc.cpython-310.pyc
+[0.862s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/main_window_ui.py to main_window_ui.cpython-310.pyc
+[0.862s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/utilities.py to utilities.cpython-310.pyc
+[0.863s] byte-compiling /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer/main_window.py to main_window.cpython-310.pyc
+[0.863s] running install_data
+[0.863s] copying package.xml -> /home/etri/bt_tutorials/install/py_trees_ros_viewer/share/py_trees_ros_viewer
+[0.863s] running install_egg_info
+[0.864s] Copying ../../build/py_trees_ros_viewer/py_trees_ros_viewer.egg-info to /home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages/py_trees_ros_viewer-0.2.3-py3.10.egg-info
+[0.864s] running install_scripts
+[0.865s] Installing py-trees-tree-viewer script to /home/etri/bt_tutorials/install/py_trees_ros_viewer/bin
+[0.865s] writing list of installed files to '/home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log'
+[0.882s] Invoked command in '/home/etri/bt_tutorials/src/py_trees_ros_viewer' returned '0': PYTHONPATH=/home/etri/bt_tutorials/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/py_trees_ros_viewer build --build-base /home/etri/bt_tutorials/build/py_trees_ros_viewer/build install --record /home/etri/bt_tutorials/build/py_trees_ros_viewer/install.log --single-version-externally-managed install_data --force
