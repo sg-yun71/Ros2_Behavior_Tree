@@ -1,0 +1,19 @@
+[0.510s] Invoking command in '/home/etri/bt_tutorials/src/build/py_trees_ros_viewer': PYTHONPATH=/home/etri/bt_tutorials/src/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/src/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/src/build/py_trees_ros_viewer/build --no-deps symlink_data --force
+[0.523s] /home/etri/bt_tutorials/src/build/py_trees_ros_viewer/setup.py:5: DeprecationWarning: The distutils package is deprecated and slated for removal in Python 3.12. Use setuptools or check PEP 632 for potential alternatives
+[0.523s]   from distutils import log
+[0.660s] running develop
+[0.758s] running egg_info
+[0.758s] writing py_trees_ros_viewer.egg-info/PKG-INFO
+[0.758s] writing dependency_links to py_trees_ros_viewer.egg-info/dependency_links.txt
+[0.758s] writing entry points to py_trees_ros_viewer.egg-info/entry_points.txt
+[0.758s] writing top-level names to py_trees_ros_viewer.egg-info/top_level.txt
+[0.759s] reading manifest file 'py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.760s] writing manifest file 'py_trees_ros_viewer.egg-info/SOURCES.txt'
+[0.760s] running build_ext
+[0.761s] Creating /home/etri/bt_tutorials/src/install/py_trees_ros_viewer/lib/python3.10/site-packages/py-trees-ros-viewer.egg-link (link to .)
+[0.761s] Installing py-trees-tree-viewer script to /home/etri/bt_tutorials/src/install/py_trees_ros_viewer/bin
+[0.761s] 
+[0.761s] Installed /home/etri/bt_tutorials/src/build/py_trees_ros_viewer
+[0.761s] running symlink_data
+[0.761s] symbolically linking /home/etri/bt_tutorials/src/build/py_trees_ros_viewer/package.xml -> /home/etri/bt_tutorials/src/install/py_trees_ros_viewer/share/py_trees_ros_viewer
+[0.789s] Invoked command in '/home/etri/bt_tutorials/src/build/py_trees_ros_viewer' returned '0': PYTHONPATH=/home/etri/bt_tutorials/src/build/py_trees_ros_viewer/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/src/install/py_trees_ros_viewer/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/src/build/py_trees_ros_viewer/build --no-deps symlink_data --force

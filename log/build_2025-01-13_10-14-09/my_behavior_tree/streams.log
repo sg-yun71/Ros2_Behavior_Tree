@@ -1,0 +1,24 @@
+[0.566s] Invoking command in '/home/etri/bt_tutorials/build/my_behavior_tree': PYTHONPATH=/home/etri/bt_tutorials/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/build/my_behavior_tree/build --no-deps symlink_data
+[0.710s] running develop
+[0.812s] running egg_info
+[0.812s] writing my_behavior_tree.egg-info/PKG-INFO
+[0.812s] writing dependency_links to my_behavior_tree.egg-info/dependency_links.txt
+[0.812s] writing entry points to my_behavior_tree.egg-info/entry_points.txt
+[0.812s] writing requirements to my_behavior_tree.egg-info/requires.txt
+[0.812s] writing top-level names to my_behavior_tree.egg-info/top_level.txt
+[0.813s] reading manifest file 'my_behavior_tree.egg-info/SOURCES.txt'
+[0.814s] writing manifest file 'my_behavior_tree.egg-info/SOURCES.txt'
+[0.815s] running build_ext
+[0.815s] Creating /home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages/my-behavior-tree.egg-link (link to .)
+[0.815s] Installing bt_basic script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.815s] Installing bt_basic_blackboard script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.815s] Installing bt_basic_blackboard2 script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.815s] Installing bt_turtlesim_nav script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.816s] Installing bt_turtlesim_nav_classes script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.816s] Installing bt_turtlesim_nav_classes_with_controller script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.816s] Installing bt_turtlesim_nav_with_controller script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.816s] Installing calc_pos_error script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.816s] 
+[0.816s] Installed /home/etri/bt_tutorials/build/my_behavior_tree
+[0.816s] running symlink_data
+[0.835s] Invoked command in '/home/etri/bt_tutorials/build/my_behavior_tree' returned '0': PYTHONPATH=/home/etri/bt_tutorials/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/build/my_behavior_tree/build --no-deps symlink_data

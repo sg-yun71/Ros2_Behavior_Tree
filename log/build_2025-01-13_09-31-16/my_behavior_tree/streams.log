@@ -1,0 +1,20 @@
+[0.566s] Invoking command in '/home/etri/bt_tutorials/build/my_behavior_tree': PYTHONPATH=/home/etri/bt_tutorials/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/build/my_behavior_tree/build --no-deps symlink_data
+[0.716s] running develop
+[0.817s] running egg_info
+[0.817s] writing my_behavior_tree.egg-info/PKG-INFO
+[0.817s] writing dependency_links to my_behavior_tree.egg-info/dependency_links.txt
+[0.817s] writing entry points to my_behavior_tree.egg-info/entry_points.txt
+[0.817s] writing requirements to my_behavior_tree.egg-info/requires.txt
+[0.817s] writing top-level names to my_behavior_tree.egg-info/top_level.txt
+[0.818s] reading manifest file 'my_behavior_tree.egg-info/SOURCES.txt'
+[0.818s] writing manifest file 'my_behavior_tree.egg-info/SOURCES.txt'
+[0.819s] running build_ext
+[0.819s] Creating /home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages/my-behavior-tree.egg-link (link to .)
+[0.820s] Installing bt_basic script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.820s] Installing bt_basic_blackboard script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.820s] Installing bt_basic_blackboard2 script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.820s] Installing bt_turtlesim_nav script to /home/etri/bt_tutorials/install/my_behavior_tree/lib/my_behavior_tree
+[0.820s] 
+[0.820s] Installed /home/etri/bt_tutorials/build/my_behavior_tree
+[0.820s] running symlink_data
+[0.841s] Invoked command in '/home/etri/bt_tutorials/build/my_behavior_tree' returned '0': PYTHONPATH=/home/etri/bt_tutorials/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/etri/bt_tutorials/build/my_behavior_tree/build --no-deps symlink_data

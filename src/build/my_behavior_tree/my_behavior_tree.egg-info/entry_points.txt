@@ -1,0 +1,5 @@
+[console_scripts]
+bt_basic = my_behavior_tree.bt_basic:main
+bt_basic_blackboard = my_behavior_tree.bt_basic_blackboard:main
+bt_basic_blackboard2 = my_behavior_tree.bt_basic_blackboard2:main
+

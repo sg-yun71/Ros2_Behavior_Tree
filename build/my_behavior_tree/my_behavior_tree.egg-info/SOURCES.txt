@@ -12,6 +12,11 @@ my_behavior_tree/__init__.py
 my_behavior_tree/bt_basic.py
 my_behavior_tree/bt_basic_blackboard.py
 my_behavior_tree/bt_basic_blackboard2.py
+my_behavior_tree/bt_turtlesim_nav.py
+my_behavior_tree/bt_turtlesim_nav_classes.py
+my_behavior_tree/bt_turtlesim_nav_classes_with_controller.py
+my_behavior_tree/bt_turtlesim_nav_with_controller.py
+my_behavior_tree/calc_pos_error.py
 my_behavior_tree.egg-info/PKG-INFO
 my_behavior_tree.egg-info/SOURCES.txt
 my_behavior_tree.egg-info/dependency_links.txt

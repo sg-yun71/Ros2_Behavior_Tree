@@ -1,0 +1,48 @@
+[0.577s] Invoking command in '/home/etri/bt_tutorials/src/my_behavior_tree': PYTHONPATH=/home/etri/bt_tutorials/src/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_behavior_tree build --build-base /home/etri/bt_tutorials/src/build/my_behavior_tree/build install --record /home/etri/bt_tutorials/src/build/my_behavior_tree/install.log --single-version-externally-managed install_data
+[0.711s] running egg_info
+[0.711s] creating ../build/my_behavior_tree/my_behavior_tree.egg-info
+[0.712s] writing ../build/my_behavior_tree/my_behavior_tree.egg-info/PKG-INFO
+[0.712s] writing dependency_links to ../build/my_behavior_tree/my_behavior_tree.egg-info/dependency_links.txt
+[0.712s] writing entry points to ../build/my_behavior_tree/my_behavior_tree.egg-info/entry_points.txt
+[0.712s] writing requirements to ../build/my_behavior_tree/my_behavior_tree.egg-info/requires.txt
+[0.712s] writing top-level names to ../build/my_behavior_tree/my_behavior_tree.egg-info/top_level.txt
+[0.712s] writing manifest file '../build/my_behavior_tree/my_behavior_tree.egg-info/SOURCES.txt'
+[0.713s] reading manifest file '../build/my_behavior_tree/my_behavior_tree.egg-info/SOURCES.txt'
+[0.713s] writing manifest file '../build/my_behavior_tree/my_behavior_tree.egg-info/SOURCES.txt'
+[0.713s] running build
+[0.713s] running build_py
+[0.713s] creating /home/etri/bt_tutorials/src/build/my_behavior_tree/build
+[0.713s] creating /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib
+[0.713s] creating /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] copying my_behavior_tree/bt_turltesim_nav.py -> /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] copying my_behavior_tree/__init__.py -> /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] copying my_behavior_tree/bt_basic_blackboard2.py -> /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] copying my_behavior_tree/bt_basic.py -> /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] copying my_behavior_tree/bt_basic_blackboard.py -> /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree
+[0.714s] running install
+[0.714s] running install_lib
+[0.714s] creating /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.714s] copying /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree/bt_turltesim_nav.py -> /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.714s] copying /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree/__init__.py -> /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.714s] copying /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree/bt_basic_blackboard2.py -> /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.714s] copying /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree/bt_basic.py -> /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.715s] copying /home/etri/bt_tutorials/src/build/my_behavior_tree/build/lib/my_behavior_tree/bt_basic_blackboard.py -> /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree
+[0.715s] byte-compiling /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree/bt_turltesim_nav.py to bt_turltesim_nav.cpython-310.pyc
+[0.715s] byte-compiling /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree/__init__.py to __init__.cpython-310.pyc
+[0.715s] byte-compiling /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree/bt_basic_blackboard2.py to bt_basic_blackboard2.cpython-310.pyc
+[0.716s] byte-compiling /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree/bt_basic.py to bt_basic.cpython-310.pyc
+[0.716s] byte-compiling /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree/bt_basic_blackboard.py to bt_basic_blackboard.cpython-310.pyc
+[0.716s] running install_data
+[0.716s] creating /home/etri/bt_tutorials/src/install/my_behavior_tree/share/ament_index
+[0.716s] creating /home/etri/bt_tutorials/src/install/my_behavior_tree/share/ament_index/resource_index
+[0.716s] creating /home/etri/bt_tutorials/src/install/my_behavior_tree/share/ament_index/resource_index/packages
+[0.716s] copying resource/my_behavior_tree -> /home/etri/bt_tutorials/src/install/my_behavior_tree/share/ament_index/resource_index/packages
+[0.717s] copying package.xml -> /home/etri/bt_tutorials/src/install/my_behavior_tree/share/my_behavior_tree
+[0.717s] running install_egg_info
+[0.717s] Copying ../build/my_behavior_tree/my_behavior_tree.egg-info to /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages/my_behavior_tree-0.0.0-py3.10.egg-info
+[0.718s] running install_scripts
+[0.728s] Installing bt_basic script to /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/my_behavior_tree
+[0.729s] Installing bt_basic_blackboard script to /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/my_behavior_tree
+[0.729s] Installing bt_basic_blackboard2 script to /home/etri/bt_tutorials/src/install/my_behavior_tree/lib/my_behavior_tree
+[0.729s] writing list of installed files to '/home/etri/bt_tutorials/src/build/my_behavior_tree/install.log'
+[0.744s] Invoked command in '/home/etri/bt_tutorials/src/my_behavior_tree' returned '0': PYTHONPATH=/home/etri/bt_tutorials/src/build/my_behavior_tree/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/etri/bt_tutorials/src/install/my_behavior_tree/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/my_behavior_tree build --build-base /home/etri/bt_tutorials/src/build/my_behavior_tree/build install --record /home/etri/bt_tutorials/src/build/my_behavior_tree/install.log --single-version-externally-managed install_data

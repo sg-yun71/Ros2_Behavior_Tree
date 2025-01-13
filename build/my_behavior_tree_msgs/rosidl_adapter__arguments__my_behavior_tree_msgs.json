@@ -1,0 +1,6 @@
+{
+  "package_name": "my_behavior_tree_msgs",
+  "non_idl_tuples": [
+    "/home/etri/bt_tutorials/src/my_behavior_tree_msgs:msg/PosError.msg"
+  ]
+}
